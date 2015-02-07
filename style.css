@@ -85,8 +85,21 @@ h1 {
 	padding-bottom: 5px;
 }
 
-.section #contact {
-	padding-left: 400px;
+#topsec {
+    width: 100%;
+    overflow: hidden;
+}
+
+#pic {
+    background: url('images/dwh.jpg') no-repeat left;
+    background-clip: contain;
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+#contact {
+    float: right;
 }
 
 .section .par, .section ul {
