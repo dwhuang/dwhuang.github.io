@@ -101,13 +101,13 @@ h1 {
     float: right;
 }
 
-.section .par, .section ul {
+.section .par, .section ul, .section ol {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	margin-left: 30px;
 }
 
-.section ul li {
+.section ul li, .section ol li {
 	margin-bottom: 10px;
 }
 
